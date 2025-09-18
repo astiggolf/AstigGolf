@@ -56,7 +56,7 @@ export default function Home() {
         <div className="relative mx-auto max-w-6xl px-4 py-16 md:py-24 grid md:grid-cols-2 gap-10 items-center">
           <div>
             <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight leading-[1.05]">
-              Bay Area Golfers · Community · Good Vibes
+              Bay Area Golf · Community · Good Vibes
             </h1>
             <p className="mt-4 text-neutral-700 md:text-lg max-w-prose">
               ASTIG brings golfers together for competitive play, community service, and unforgettable tournaments across Northern California—and beyond.
@@ -185,7 +185,7 @@ export default function Home() {
             <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Get in Touch</h2>
             <p className="mt-3 text-neutral-700 max-w-prose">Questions about tournaments, partnerships, or volunteering? Send us a note.</p>
             <div className="mt-6 grid gap-3 text-sm text-neutral-700">
-              <div>✉️ info@astiggolf.org</div>
+              <div>✉️ astiggolf@gmail.com</div>
               <div>📱 (510) 000-0000</div>
               <div>📸 @astig_golf</div>
               <div>📘 Facebook Group</div>
