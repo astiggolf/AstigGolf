@@ -23,10 +23,7 @@ export default function Home() {
   const sponsors = [
     { name: "Peninsula Golf", sub: "San Mateo, CA", phone: "650-345-8008" },
     { name: "Grocery Outlet", sub: "North Stockton" },
-    { name: "Farmers Insurance", sub: "Patrick Rodriguez" },
-    { name: "Cadillac", sub: "Bay Area Partner" },
-  ];
-
+    { name: "Farmers Insurance", sub: "Patrick Rodriguez" }
   return (
     <main className="min-h-screen bg-neutral-50 text-neutral-900">
       {/* Nav */}
