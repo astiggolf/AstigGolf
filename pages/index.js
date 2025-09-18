@@ -21,9 +21,9 @@ export default function Home() {
   ];
 
   const sponsors = [
-    { name: "Peninsula Golf", sub: "San Mateo, CA", phone: "650-345-8008" },
-    { name: "Grocery Outlet", sub: "North Stockton" },
-    { name: "Farmers Insurance", sub: "Patrick Rodriguez" }
+    { name: "Peninsula Golf", sub: "24 17th Ave, San Mateo, CA 94402", phone: "650-345-8008" },
+    { name: "Grocery Outlet", sub: "North Stockton", "6618 Pacific Avenue Stockton CA 95207", "Brixton & Marenna Barron" },
+    { name: "Farmers Insurance", sub: "37675 Niles Blvd, Fremont, CA 94536", "Patrick Rodriguez", "(510) 737-0760" }
   return (
     <main className="min-h-screen bg-neutral-50 text-neutral-900">
       {/* Nav */}
